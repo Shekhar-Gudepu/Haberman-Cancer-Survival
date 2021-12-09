@@ -2,6 +2,12 @@
 
 This repository consists of notebook on EDA of Haberman Cancer Survival problem.
 
+
+# Objective:
+  
+  - To find whether features 'AGE,'NODES','YEAR' have any effect on class label 'STATUS'.
+
+
 # Attribute Information:
 
 *  Age of patient - numerical
@@ -15,6 +21,3 @@ This repository consists of notebook on EDA of Haberman Cancer Survival problem.
       2 = patient died within 5 year
 
 
-# Objective:
-  
-  - To find whether features 'AGE,'NODES','YEAR' have any effect on class label 'STATUS'.
